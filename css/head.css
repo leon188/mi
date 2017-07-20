@@ -1,0 +1,25 @@
+.head .banner .bannerimg{background: #EEEEEE;}
+.head .banner .bannerimg a img{width: 1226px; display: block;margin: 0 auto;}
+.head .banner .bannerul{background: #363636;}
+.head .banner .bannerul .bannerul_out{width: 1226px;margin: 0 auto; height: 40px;}
+.head .banner .bannerul .bannerul_out .l_ul{float: left;height: 40px;margin-top: 14px; font-size: 12px;}
+.head .banner .bannerul .bannerul_out .l_ul li{float: left;padding: 0 9px 0 8px; border-right: solid #B0B0B0 1px;line-height: 12px;}
+.head .banner .bannerul .bannerul_out .l_ul li a{color: #B0B0B0;}
+.head .banner .bannerul .bannerul_out .l_ul .line1{padding-left: 0px;}
+.head .banner .bannerul .bannerul_out .l_ul .line2{border-right: none;}
+.head .banner .bannerul .bannerul_out .r_ul{float: right;font-size: 12px;}
+.head .banner .bannerul .bannerul_out .r_ul ul{float: left;}
+.head .banner .bannerul .bannerul_out .r_ul ul li a{color: #B0B0B0;}
+.head .banner .bannerul .bannerul_out .r_ul ul li{float:left;}
+.head .banner .bannerul .bannerul_out .r_ul ul li{padding: 0 8px 0 7px;border-right: solid #B0B0B0 1px;line-height: 12px; margin-top: 14px; }
+.head .banner .bannerul .bannerul_out .r_ul ul li.r_ul_li1{padding: 0 8px 0 0;}
+.head .banner .bannerul .bannerul_out .r_ul ul li.r_ul_li2{padding: 0 25px 0 12px;border-right: none;}
+.head .banner .bannerul .bannerul_out .r_ul .r_ul_div{float: right; line-height: 12px; height: 26px;  padding: 14px 20px 0 17px;background: #454545;}
+.head .banner .bannerul .bannerul_out .r_ul .r_ul_div .icon{height: 14px;width: 20px;color: #B0B0B0;}
+.head .banner .bannerul .bannerul_out .r_ul:after{display: block; clear: both;content: '';}
+.l_ul:after{display: block; clear: both;content: '';}
+.bannerul_out:after{display: block; clear: both;content: '';}
+.head .banner .bannerul .bannerul_out .r_ul .r_ul_div .r_ul_li2_span a{color:#B0B0B0 ; padding-left: 4px;}
+.head .banner .bannerlogo{width: 1226px;  background: pink; margin: 0 auto; height: 100px;}
+.head .banner .bannerlogo h1{float: left;}
+.head .banner .bannerlogo h1 img{width: 55px;height: 55px;}
